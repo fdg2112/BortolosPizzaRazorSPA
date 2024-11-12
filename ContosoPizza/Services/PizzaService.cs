@@ -1,7 +1,7 @@
-﻿using ContosoPizza.Data;
-using ContosoPizza.Models;
+﻿using BartolosPizza.Data;
+using BartolosPizza.Models;
 
-namespace ContosoPizza.Services
+namespace BartolosPizza.Services
 {
     public class PizzaService
     {

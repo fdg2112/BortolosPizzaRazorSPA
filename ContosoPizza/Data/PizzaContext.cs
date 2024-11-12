@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace ContosoPizza.Data
+namespace BartolosPizza.Data
 {
     public class PizzaContext : DbContext
     {
@@ -8,6 +8,6 @@ namespace ContosoPizza.Data
             : base(options)
         {
         }
-        public DbSet<ContosoPizza.Models.Pizza>? Pizzas { get; set; }
+        public DbSet<BartolosPizza.Models.Pizza>? Pizzas { get; set; }
     }
 }

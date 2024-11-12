@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace ContosoPizza.Migrations
+namespace BartolosPizza.Migrations
 {
     /// <inheritdoc />
     public partial class InitialCreate : Migration

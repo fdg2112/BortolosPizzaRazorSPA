@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace ContosoPizza.Pages
+namespace BartolosPizza.Pages
 {
     public class PrivacyModel : PageModel
     {
